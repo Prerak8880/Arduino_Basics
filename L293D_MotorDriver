@@ -1,0 +1,17 @@
+--> L293D Motor Driver Module or Shield <--
+--> It contains 2 Input ports   (a) 12V Input DC Supply
+                                (b) GND Port
+--> Two Output Ports <--
+--> L293D IC which is a 16 Legged IC <--
+--> 8 Ports <--
+        (a)  IN1
+        (b)  IN2
+        (c)  IN3
+        (d)  IN4
+        (e)  EN1
+        (f)  EN2
+        (g)  5V
+        (h)  5V
+
+
+
