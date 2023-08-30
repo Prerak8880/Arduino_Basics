@@ -1,3 +1,10 @@
+//Vcc of US_sensor = Vin (Arduino board)//
+//GND = GND//
+//Vcc (of Servo) = 5V (Arduino)//
+//GND = GND//
+-----------------------------------------------------------
+CODE
+-----------------------------------------------------------
 #include <Servo.h>
 Servo servo1;
 int trigPin = 9;
