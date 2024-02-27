@@ -12,4 +12,4 @@ A joystick typically provides two-dimensional control, allowing movement along b
 <br>
 --> The Y-axis movement of the joystick is typically vertical, allowing control in the up-down direction.<br>
 --> When the joystick is moved upwards, it generates an analog voltage signal proportional to the extent of upward movement.<br>
---> Conversely, when the joystick is moved downwards, it generates an analog voltage signal proportional to the extent of downward movement.<br>
+--> Conversely, when the joystick is moved downwards, it generates an analog voltage signal proportional to the extent of downward movement.
